@@ -1,0 +1,42 @@
+{
+  "sel": "div",
+  "data": {
+    "class": { "container": true }
+  },
+  "elm": undefined,
+  "key": undefined,
+  "children": [
+    {
+      "elm": undefined,
+      "key": undefined,
+      "sel": "p",
+      "data": { "text": "哈哈" }
+    },
+    {
+      "elm": undefined,
+      "key": undefined,
+      "sel": "ul",
+      "data": {
+        "class": { "list": true }
+      },
+      "children": [
+        {
+          "elm": undefined,
+          "key": undefined,
+          "sel": "li",
+          "data": {
+            "text": "1"
+          }
+        },
+        {
+          "elm": undefined,
+          "key": undefined,
+          "sel": "li",
+          "data": {
+            "text": "1"
+          }
+        }
+      ]
+    }
+  ]
+}
